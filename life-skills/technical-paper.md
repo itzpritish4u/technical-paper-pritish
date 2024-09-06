@@ -16,10 +16,9 @@ Couchbase is a document-oriented NoSQL database that marries the flexibility and
 ## DynamoDB
 DynamoDB is the fully managed AWS key-value and document-oriented NoSQL database that automatically scales the throughput capacity and storage to meet the demand of an application, which allows highly scalable web applications. It also seamlessly integrates with other AWS services, making it ideal for cloud-native solutions.
 
-References
-
+## References
 [MongoDB - NoSQL Explained](https://www.mongodb.com/resources/basics/databases/nosql-explained)
-Cassandra - Apache
-Redis Documentation
-Couchbase Official
-DynamoDB - AWS
+[Cassandra - Apache](https://cassandra.apache.org/_/index.html)
+[Redis Documentation](https://redis.io/docs/latest/operate/rc/)
+[Couchbase Official](https://www.couchbase.com/)
+[DynamoDB - AWS](https://aws.amazon.com/dynamodb/)
