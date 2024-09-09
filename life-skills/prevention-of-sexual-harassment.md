@@ -1,5 +1,5 @@
 # Prevention of Sexual Harassment
-
+## **What kinds of behaviour cause sexual harassment?**
 ### 1. **Verbal Harassment**
    This involves using inappropriate or offensive language to make someone feel uncomfortable. Examples include:
    - **Sexual jokes** or comments about someone's body or appearance.
@@ -36,9 +36,9 @@
 
 ---
 
-### How to Handle or Respond to Sexual Harassment:
+## **What would you do in case you face or witness any incident or repeated incidents of such behaviour?**
 - **Confront the behavior**: Clearly communicate that the behavior is unwanted and must stop. This is important because sometimes individuals may not realize the impact of their actions.
 - **Document the incident**: Keep detailed records of what happened, including dates, times, places, and any witnesses. This can be crucial if the situation escalates and needs to be reported.
 - **Report the behavior**: Every organization is required by law to have a sexual harassment policy. Report incidents to your HR department or the designated Internal Complaints Committee (ICC) under the Prevention of Sexual Harassment (POSH) Act.
 - **Seek support**: If the situation is distressing, confide in colleagues, friends, or a counselor. Emotional support can help you cope with the effects of harassment.
-- **Follow up**: After filing a report, follow up with HR or the committee to ensure that your complaint is being handled properly. Escalate the issue if necessary if the response is inadequate or delayed.
+- **Follow up**: After filing a report, follow up with HR or the committee to ensure that your complaint is being handled properly. Escalate the issue if necessary if the response is inadequate or delayed. 
