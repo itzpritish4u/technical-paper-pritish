@@ -18,11 +18,7 @@ DynamoDB is the fully managed AWS key-value and document-oriented NoSQL database
 
 ## References
 [MongoDB - NoSQL Explained](https://www.mongodb.com/resources/basics/databases/nosql-explained)
-
 [Cassandra - Apache](https://cassandra.apache.org/_/index.html)
-
 [Redis Documentation](https://redis.io/docs/latest/operate/rc/)
-
 [Couchbase Official](https://www.couchbase.com/)
-
 [DynamoDB - AWS](https://aws.amazon.com/dynamodb/)
